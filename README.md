@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working to get a job
 - 🌱 I’m currently learning C++ 
-- 💬 Ask me about ...
 - 📫 How to reach me: rodrigo301103@gmail.com/   https://www.linkedin.com/in/rodrigo-nunes-311252236/  
 
 <div align="center">
