@@ -1,25 +1,36 @@
-### Hi there 👋, I'm RodrigoNunes20
+## 👋 Olá! Sou o Rodrigo Nunes
 
+Sou estudante de Ciência da Computação com foco em desenvolvimento Front-End.  
+Atualmente estou aprofundando meus conhecimentos em **JavaScript, integração com APIs** e desenvolvimento de interfaces responsivas.
 
+---
 
-- 🔭 I’m currently working to get a job
-- 🌱 I’m currently learning C++ 
-- 📫 How to reach me: rodrigo301103@gmail.com/   https://www.linkedin.com/in/rodrigo-nunes-311252236/  
+### 🚀 Meus Projetos Destaque
 
-<div align="center">
-  <a href="https://github.com/RodrigoNunes20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigonunes20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigonunes20&layout=compact&langs_count=7&theme=dark"/>
-</div>
+🔹 [Chatbot com IA](https://github.com/RodrigoNunes20/chatbot-com-ia) – Front-end integrado com inteligência artificial  
+🔹 [Portfólio Pessoal](https://github.com/RodrigoNunes20/portfolio-pessoal) – Página profissional responsiva  
+🔹 [To-do List com localStorage](https://github.com/RodrigoNunes20/todo-list-crud) – CRUD funcional usando apenas JS puro  
+🔹 [Conversor de Moedas com API](https://github.com/RodrigoNunes20/conversor-moedas-api) – Consumo de dados em tempo real  
+🔹 [Busca de Filmes por API](https://github.com/RodrigoNunes20/busca-filmes-api) – Interface que consome a TMDB API  
 
-##
+---
 
- 
-  
-</div>
+### 🧰 Tecnologias que venho usando
 
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Git & GitHub
+- Consumo de APIs REST
 
+---
 
+### 📫 Contato
 
+- Email: **rodrigo301103@gmail.com**
+- LinkedIn: [linkedin.com/in/rodrigo-nunes-311252236](https://www.linkedin.com/in/rodrigo-nunes-311252236)
 
--->
+---
+
+📌 Buscando uma oportunidade de estágio para crescer como desenvolvedor e aplicar tudo o que venho estudando na prática.
+
