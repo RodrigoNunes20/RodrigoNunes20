@@ -1,36 +1,40 @@
-## 👋 Olá! Sou o Rodrigo Nunes
+# 👋 Hey, I'm Rodrigo Nunes
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento Front-End.  
-Atualmente estou aprofundando meus conhecimentos em **JavaScript, integração com APIs** e desenvolvimento de interfaces responsivas.
-
----
-
-### 🚀 Meus Projetos Destaque
-
-🔹 [Chatbot com IA](https://github.com/RodrigoNunes20/chatbot-com-ia) – Front-end integrado com inteligência artificial  
-🔹 [Portfólio Pessoal](https://github.com/RodrigoNunes20/portfolio-pessoal) – Página profissional responsiva  
-🔹 [To-do List com localStorage](https://github.com/RodrigoNunes20/todo-list-crud) – CRUD funcional usando apenas JS puro  
-🔹 [Conversor de Moedas com API](https://github.com/RodrigoNunes20/conversor-moedas-api) – Consumo de dados em tempo real  
-🔹 [Busca de Filmes por API](https://github.com/RodrigoNunes20/busca-filmes-api) – Interface que consome a TMDB API  
+🎓 Computer Science student  
+🚀 Looking for a Front-End internship opportunity  
+🌍 Passionate about creating responsive and interactive web projects  
+💡 Focused on HTML, CSS, JavaScript and API integration
 
 ---
 
-### 🧰 Tecnologias que venho usando
+## 💻 Highlighted Projects
 
-- HTML5 / CSS3
-- JavaScript (ES6+)
-- Bootstrap
+| Project | Technologies | Live Preview |
+|--------|-------------|--------------|
+| Personal Portfolio | HTML, CSS, JS | [🔗 View](https://rodrigonunes20.github.io/portfolio-pessoal) |
+| Landing Page | HTML, CSS | [🔗 View](https://rodrigonunes20.github.io/landing-page-responsiva) |
+| To-do List (CRUD) | HTML, CSS, JS | [🔗 View](https://rodrigonunes20.github.io/todo-list-crud) |
+| Currency Converter | HTML, JS + API | [🔗 View](https://rodrigonunes20.github.io/conversor-moedas-api) |
+| Movie Search App | HTML, JS + API | [🔗 View](https://rodrigonunes20.github.io/busca-filmes-api) |
+| Rock Paper Scissors Game | HTML, JS | [🔗 View](https://rodrigonunes20.github.io/jogo-pedra-papel-tesoura) |
+
+---
+
+## 🧰 Tech Skills
+
+- HTML5, CSS3, JavaScript ES6+
+- RESTful APIs
 - Git & GitHub
-- Consumo de APIs REST
+- Responsive Design
 
 ---
 
-### 📫 Contato
+## 📫 Contact
 
-- Email: **rodrigo301103@gmail.com**
-- LinkedIn: [linkedin.com/in/rodrigo-nunes-311252236](https://www.linkedin.com/in/rodrigo-nunes-311252236)
+- 📧 Email: rodrigo301103@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-nunes-311252236/)
 
 ---
 
-📌 Buscando uma oportunidade de estágio para crescer como desenvolvedor e aplicar tudo o que venho estudando na prática.
+Thanks for visiting! 🚀
 
