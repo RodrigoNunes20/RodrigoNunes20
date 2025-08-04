@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rodrigo Nunes
 
 🎓 Computer Science student  
-🚀 Looking for a Front-End internship opportunity  
+🚀 Looking for a  internship opportunity  
 🌍 Passionate about creating responsive and interactive web projects  
 💡 Focused on HTML, CSS, JavaScript and API integration
 
