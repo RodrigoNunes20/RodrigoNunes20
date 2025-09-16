@@ -1,9 +1,24 @@
-# 👋 Hey, I’m Rodrigo Nunes
+<h1 align="center">👋 Hey, I'm Rodrigo Nunes</h1>
 
-🎓 Computer Science student  
-💼 Looking for an internship opportunity  
-💻 Passionate about building responsive and interactive web projects  
-🔎 Focused on React, JavaScript, HTML/CSS and API integration  
+<p align="center">
+  🎓 Computer Science Student • 💼 Looking for Internship • 💻 Frontend Developer (React, Vite, Tailwind)
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoNunes20&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNunes20&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,git,github" />
+</p>
 
 ---
 
@@ -22,18 +37,10 @@
 
 ---
 
-## 🛠️ Tech Skills
-- HTML5, CSS3, JavaScript ES6+  
-- React + Vite  
-- TailwindCSS  
-- RESTful APIs  
-- Git & GitHub  
-- Responsive Design  
+## 🌐 Connect with me
 
----
-
-## 📫 Contact
-- 📍 Porto Alegre, RS – Brazil  
-- ✉️ [rodrigo301103@gmail.com](mailto:rodrigo301103@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-nunes-311252236/)  
-- 🖥️ [GitHub](https://github.com/RodrigoNunes20)  
+<p align="center">
+  <a href="mailto:rodrigo301103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-nunes-311252236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/RodrigoNunes20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
